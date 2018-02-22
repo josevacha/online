@@ -1,0 +1,16 @@
+- education:
+  degree: Master of Computer Science (MCA)
+  university: Christ University,Bangalore
+  time: 2013 - 2016
+  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem."
+- education:
+  degree: Bachelor of Computer Application (BCA)
+  university: Christ University,Bangalore
+  time: 2010 - 2013
+  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem."

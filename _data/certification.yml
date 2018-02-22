@@ -1,0 +1,27 @@
+- education:
+  degree: Deep Learning – Andrew NG
+  university: Stanford University on Coursera
+  time: 2018
+  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem."
+
+- education:
+  degree: Machine Learning 
+  university: Stanford University on Coursera
+  time: 2017 - 2018
+  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem."
+
+- education:
+  degree: Machine Learning 
+  university: Data Centre and Analytics Lab (DCAL),Indian Institute of Management,Bangalore.
+  time: 2017
+  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem."
+

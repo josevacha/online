@@ -1,0 +1,16 @@
+- skill:
+  name: PYTHON
+  level: 90%
+- skill:
+  name: ANALYTICAL LIBRARIES 
+  level: 75%
+- skill:
+  name: DATA SCIENCE LIBRARIES
+  level: 65%
+- skill:
+  name: JAVA
+  level: 65%
+- skill:
+  name: MONGO DB
+  level: 85%
+
