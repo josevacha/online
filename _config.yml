@@ -1,6 +1,6 @@
 # Site Settings
 title: Jose Alex
-url: 'https://josevacha.github.io/online-cv/'
+url: 'https://josevacha.github.io/online/'
 baseurl: '/online-cv' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
@@ -20,12 +20,12 @@ pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and pro
 summary: 'Confident and articulate individual with one year of experience in supporting machine-learning projects.
 Hands-on experience in Statistical Modelling, Data Visualization, Web Scrapping and Data Mining.
 Self-motivated and focused to work in the field of machine learning algorithms and its optimisation techniques.
-You can download my resume <a href="//github.com/josevacha/online-cv/raw/master/Jose_Alex_JMJ_1.pdf" target="_blank">HERE</a>.'
+You can download my resume <a href="//github.com/josevacha/online/raw/master/Jose_Alex_JMJ_1.pdf" target="_blank">HERE</a>.'
 
 #sidebar links
 email: mail2josephalex@gmail.com  
 phone: 8050001023
-website: josevacha.github.io/online-cv/ #do not add http://
+website: josevacha.github.io/online/ #do not add http://
 linkedin: josealex
 github: josevacha
 
