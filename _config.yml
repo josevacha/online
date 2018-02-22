@@ -1,7 +1,7 @@
 # Site Settings
 title: Jose Alex
 url: 'https://josevacha.github.io/online/'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: '/online' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
