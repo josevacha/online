@@ -2,7 +2,7 @@ intro: "My key role was to provide quality data to the machine learning pipeline
 projects:
   - project:
     title: MWFeeds
-    link: "www.mwfeeds.com"
+    link: "//www.mwfeeds.com"
     tagline: "A tool, which helps to scrape the webpages, which are not crawled by company in-house web crawlers/robots. 
     The data is then enriched and stored in RIAK database.Few important modules are 
     1: Web Scraping – Client specific data, is extracted from
