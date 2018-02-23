@@ -1,4 +1,4 @@
-intro: "I refactor good data science research papers and work on interesting ones.I also look for interesting kaggel projects.
+intro: "I work on good data science research papers and implement interesting ones.I also look for interesting kaggel projects.
 Here are the few of the research papers I worked and published "
 publications:
   - paper:
@@ -7,6 +7,6 @@ publications:
     conference: InternationalJournal ofAdvancedMultidisciplinaryResearch(IJAMR), 2015
 
   - paper:
-    title: Recommender system using Low Rank Matrix Factorization
+    title: Recommender system using Low-Rank Matrix Factorization
     authors: Jose Alex
     conference: Currently working 
