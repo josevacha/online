@@ -5,26 +5,26 @@ projects:
     link: "//www.mwfeeds.com"
     tagline: "Introduced and lead a team of four, in development of a new web-scrapping robot using Python and Mongo-DB.
     An intuitive tool with dynamic data extraction capabilities. A project well correlated with the company’s goals,
-    which made a significant impact on the company financials.
+    which made a significant impact on the company financials."
     
-    1: Web Scraping – The data extraction module was completely designed and developed in python using beautiful soup library.
+    module: "Web Scraping – The data extraction module was completely designed and developed in python using beautiful soup library.
     Data is scrapped from specific HTML tags periodically and were stored in Mongo-DB.The tool was capable of scarping data even from a
-    JavaScript-enabled-websites.
-    2: Basefarm Server – Hosted in Basefarm and setups a CRON job to fetch data periodically. The data is sent to content
-    service API and then to the enrichment pipeline for language detection, text summarization, and sentimental analysis. 
-    The enriched data is index by elastic search and stored in RIAK database.
-    3: Sentiment Analysis - I was responsible for model creation and validation, which was part of Relation Extraction project.
+    JavaScript-enabled-websites."
+    module: "Basefarm Server – Hosted in Basefarm and setups a CRON job to fetch data periodically. The data is sent to content
+    service API and then to the enrichment pipeline for language detection, text summarization, and sentimental analysis.
+    The enriched data is index by elastic search and stored in RIAK database."
+    module: "Sentiment Analysis - I was responsible for model creation and validation, which was part of Relation Extraction project.
     During this period I worked on Different Classifiers, Clustering algorithms etc. Performed Sentiment Analysis to 
-    measure Brand performance (sentiment) and Topic Modeling to understand important topics.
-    4: Newsletters designing tool- Designed a web application to draft-newsletters, which focused on XML-XSLT
+    measure Brand performance (sentiment) and Topic Modeling to understand important topics."
+    module: "Newsletters designing tool- Designed a web application to draft-newsletters, which focused on XML-XSLT
     Transformation. An expert in writing XSLT style sheets and thus transforming the data, which would satisfy the
-    vision statement of the project - ‘Inform and Inspire’.
-    5: Technology Used: Python along with Beautiful soup library for web data extraction. 
+    vision statement of the project - ‘Inform and Inspire’."
+    module: "Technology Used: Python along with Beautiful soup library for web data extraction. 
     A simple and clean UI was completely developed using HTML 5, CSS and Java script."
     
   - project:
     title: New Meltwater Production Support and Monitoring
-    link: "www.meltwater.com"
+    link: "//www.meltwater.com"
     tagline: "Configuring web-scrapping robots (tkRobot).Investigating GNIP (twitter) rules created at the data pipeline. 
     Configuring IceRocket to fetch data from Facebook.Closely working with DevOps in patch release to production and managing the testing team.
     Backfilling and monitoring Mongo DB at the time of cluster issues.Improve SLOs by automating the operational tasks using shell scripts 
