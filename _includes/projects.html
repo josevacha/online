@@ -16,13 +16,11 @@
 
       {% if project.tagline %}
       - <span class="project-tagline" >{{ project.tagline }}</span>
+       {% if project.module1 %}
+        <p>{{ project.module1 }}</p>
+       {% endif %}
       {% endif %}
       
-     {% for project in site.data.projects.projects %}
-       {% if project.module %}
-        <p>{{ project.module }}</p>
-       {% endif %}
-      {% endfor %}
       
     </div><!--//item-->
   {% endfor %}
