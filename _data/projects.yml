@@ -1,22 +1,29 @@
-intro: "My key role was to provide quality data to the machine learning pipeline (Enrichment Pipeline)"
+intro: "My key role was to monitor and provide data to the content service API and then to Machine learning pipeline/Enrichment Pipeline"
 projects:
   - project:
     title: MWFeeds
     link: "//www.mwfeeds.com"
-    tagline: "A tool, which helps to scrape the webpages, which are not crawled by company in-house web crawlers/robots. 
-    The data is then enriched and stored in RIAK database.Few important modules are 
-    1: Web Scraping – Client specific data, is extracted from
-    webpages and enriched. This enriched data is converted to RSS/XML/SharePoint format and given to the clients on request.
-    2: Text Summarization – Converted PDF content into the corpus
-    and cleaned using python Regular Expression thereby performed text summarization to extract theme of each document.
-    3: Sentiment Analysis - Performed Sentiment Analysis to measure Brand performance (sentiment) and 
-    Topic Modeling to understand important issues.
+    tagline: "Introduced and lead a team of four, in development of a new web-scrapping robot using Python and Mongo-DB.
+    An intuitive tool with dynamic data extraction capabilities. A project well correlated with the company’s goals,
+    which made a significant impact on the company financials.
+    
+    1: Web Scraping – The data extraction module was completely designed and developed in python using beautiful soup library.
+    Data is scrapped from specific HTML tags periodically and were stored in Mongo-DB.The tool was capable of scarping data even from a
+    JavaScript-enabled-websites.
+    2: Basefarm Server – Hosted in Basefarm and setups a CRON job to fetch data periodically. The data is sent to content
+    service API and then to the enrichment pipeline for language detection, text summarization, and sentimental analysis. 
+    The enriched data is index by elastic search and stored in RIAK database.
+    3: Sentiment Analysis - I was responsible for model creation and validation, which was part of Relation Extraction project.
+    During this period I worked on Different Classifiers, Clustering algorithms etc. Performed Sentiment Analysis to 
+    measure Brand performance (sentiment) and Topic Modeling to understand important topics.
     4: Newsletters designing tool- Designed a web application to draft-newsletters, which focused on XML-XSLT
     Transformation. An expert in writing XSLT style sheets and thus transforming the data, which would satisfy the
-    vision statement of the project - ‘Inform and Inspire’."
+    vision statement of the project - ‘Inform and Inspire’.
+    5: Technology Used: Python along with Beautiful soup library for web data extraction. 
+    A simple and clean UI was completely developed using HTML 5, CSS and Java script."
     
   - project:
-    title: Production support and monitoring
+    title: New Meltwater Production Support and Monitoring
     link: "www.meltwater.com"
     tagline: "Configuring web-scrapping robots (tkRobot).Investigating GNIP (twitter) rules created at the data pipeline. 
     Configuring IceRocket to fetch data from Facebook.Closely working with DevOps in patch release to production and managing the testing team.
