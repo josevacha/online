@@ -3,16 +3,16 @@
   time: 2016 - 2017
   company: Meltwater Software Pvt Ltd 
   details: "Data is the Bread and Butter of Meltwater.I manage a team of three and was responsible for the maintance and monitoring of 
-  different data pipeline.Meltwater, a media inteligence and social monitoring company focused on data from Social Medias data and 
+  different data pipelines.Meltwater, a media inteligence and social monitoring company focused on data from Social Medias and 
   Editorials.And so I get the data to our enrichment pipleline from different provider and inhouse crawler/robots. 
   Few of the Robots/API that I configure to get the data to the enrichment pipleline are Twitter through GNIP API, Facebook through 
-  IceRocket and tkRobot an inhouse robot to crawl the editorials."
+  IceRocket and tkRobot an inhouse robot, to crawl the editorials."
 
 - experience:
   role: Support Engineer Intern
   time: 2015 - 2016
   company: Meltwater Software Pvt Ltd
-  details: "As a intern, I was providing second and third level technical support to meet SLA's w.r.t customer and production issues.
+  details: "As a intern, I was providing second and third level technical support to meet SLA's with the customers and other production issues.
   I soon picked up the baton and started picking up  Sev1/Sev2 incident tickets, service requests and other priority tickets.Soon I was 
   monitoring servers using New Relic and used Jira has our reporting/ticketing tool.Styling of XML content using XSLT,HTML and
   Javascript, for creation of newsletters was a recreation.I closely worked with DevOps in patch release and co-ordinate with the global testing team.
