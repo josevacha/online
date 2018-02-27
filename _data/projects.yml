@@ -1,4 +1,4 @@
-intro: "My key role was to monitor and provide data to the content service API and then to Machine learning pipeline/Enrichment Pipeline."
+intro: "My key role was to monitor and provide data to the content service API and then to Machine learning pipeline/Enrichment Pipeline"
 projects:
   - project:
     title: MWFeeds
@@ -7,19 +7,19 @@ projects:
     An intuitive tool with dynamic data extraction capabilities. A project well correlated with the company’s goals,
     which made a significant impact on the company financials."
     
-    module: "Web Scraping – The data extraction module was completely designed and developed in python using beautiful soup library.
+    module1: "Web Scraping – The data extraction module was completely designed and developed in python using beautiful soup library.
     Data is scrapped from specific HTML tags periodically and were stored in Mongo-DB.The tool was capable of scarping data even from a
     JavaScript-enabled-websites."
-    module: "Basefarm Server – Hosted in Basefarm and setups a CRON job to fetch data periodically. The data is sent to content
+    module2: "Basefarm Server – Hosted in Basefarm and setups a CRON job to fetch data periodically. The data is sent to content
     service API and then to the enrichment pipeline for language detection, text summarization, and sentimental analysis.
     The enriched data is index by elastic search and stored in RIAK database."
-    module: "Sentiment Analysis - I was responsible for model creation and validation, which was part of Relation Extraction project.
+    module3: "Sentiment Analysis - I was responsible for model creation and validation, which was part of Relation Extraction project.
     During this period I worked on Different Classifiers, Clustering algorithms etc. Performed Sentiment Analysis to 
     measure Brand performance (sentiment) and Topic Modeling to understand important topics."
-    module: "Newsletters designing tool- Designed a web application to draft-newsletters, which focused on XML-XSLT
+    module4: "Newsletters designing tool- Designed a web application to draft-newsletters, which focused on XML-XSLT
     Transformation. An expert in writing XSLT style sheets and thus transforming the data, which would satisfy the
     vision statement of the project - ‘Inform and Inspire’."
-    module: "Technology Used: Python along with Beautiful soup library for web data extraction. 
+    module5: "Technology Used: Python along with Beautiful soup library for web data extraction. 
     A simple and clean UI was completely developed using HTML 5, CSS and Java script."
     
   - project:
