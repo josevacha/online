@@ -17,10 +17,8 @@ about: True # set to False or comment line if you want to remove the "How to use
 name: Jose Aex
 tagline: Data Professional
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Confident and articulate individual with 1.6 years of experience in supporting machine-learning projects.
-Hands-on experience in Statistical Modelling, Data Visualization, Web Scrapping and Data Mining.
-Experience in working closely with clients to understand their business needs and providing end-to-end solution, 
-which results in achieving their business goals.
+summary: 'A technology enthusiast who is always looking for emerging trends in technology and business to solve real-world business problems. Currently playing a key role in Product Development and customer success. The key responsibilities include but are not limited to building growth plans for the digital solutions practices, aligned to organizational objectives and thus helping customers reimagine their business.
+A seasoned data engineer and a python developer with experience in building data pipelines and integrating solutions for developing and delivering solutions in different domains. The profile goes through a series of projects delivered in different domains, a few solutions are business problem-centric and others are solutions engineered & delivered as a platform to achieve an end-to-end business process automation
 You can download my resume <a href="//github.com/josevacha/online/raw/master/Jose%20Alex.pdf" target="_blank">HERE</a>.'
 
 #sidebar links
