@@ -1,4 +1,14 @@
 - experience:
+  role: Senior Software Developer
+  time: 2018 - Present
+  company: UST
+  details: "Data is the Bread and Butter of Meltwater.I manage a team of three and was responsible for the maintenance and monitoring of 
+  different data pipelines.Meltwater, a media intelligence and social monitoring company focused on data from Social Medias and 
+  Editorials.And so I get the data to our enrichment pipeline from different provider and inhouse crawler/robots. 
+  Few of the Robots/API that I configure to get the data to the enrichment pipeline are Twitter through GNIP API, Facebook through 
+  IceRocket and tkRobot an in-house robot, to crawl the editorials."
+  
+- experience:
   role: Technical Support Engineer
   time: 2016 - 2017
   company: Meltwater Software Pvt Ltd 
